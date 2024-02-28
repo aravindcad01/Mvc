@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "C/U7oTs6e3XNk+3B8nBCn6Mo4iBH2ICw4BuLp/Q/+aPpHC5chN8olipf0QUVuO7dBA44vRSMHJwy1AfdLXcTaQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\aravi\\OneDrive\\Desktop\\cad\\Mvc\\prac1\\Mvcproject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aravi\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.16\\microsoft.netcore.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\aravi\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.16\\microsoft.windowsdesktop.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\aravi\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.16\\microsoft.aspnetcore.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\aravi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.16\\microsoft.netcore.app.host.win-x64.7.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
